@@ -26,4 +26,4 @@
 - JavaScript
 
 ## Deployed Website
-**[Play the game here!]([https://your-deployed-website-url](https://dice-game-mohit.netlify.app/))**
+**[Play the game here!](https://dice-game-mohit.netlify.app/)**
